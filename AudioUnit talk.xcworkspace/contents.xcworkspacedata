@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/acb/Documents/Presentations/201901 AudioUnits/01 Hello MIDI.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/acb/Documents/Presentations/201901 AudioUnits/01A Hello MIDI (refactored).playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/acb/Documents/Presentations/201901 AudioUnits/02 StepSequencer.playground">
+   </FileRef>
+   <FileRef
+      location = "group:03 multichannel.playground">
+   </FileRef>
+</Workspace>
